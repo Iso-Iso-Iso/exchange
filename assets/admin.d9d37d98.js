@@ -1,0 +1,1 @@
+import{$ as t}from"./index.3b1e4ac0.js";async function u(a=[]){return t.patch("/admin/currencies/change",...a)}async function e(a=[]){return t.patch("/admin/deposit/update",...a)}async function r(a=[]){return t.patch("/admin/withdraw/update",...a)}export{r as a,u as b,e as u};
